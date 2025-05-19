@@ -1,0 +1,40 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "Sounds",
+    "deps": [],
+    "uuids": [
+        "e5b045ec-85dd-46dc-a9d0-ab725126b339",
+        "f3eb4ba8-ee75-4f34-8bd6-66cfc75fe4b0"
+    ],
+    "paths": {
+        "f3eb4ba8-ee75-4f34-8bd6-66cfc75fe4b0": [
+            "test_footstep",
+            "cc.AudioClip"
+        ],
+        "e5b045ec-85dd-46dc-a9d0-ab725126b339": [
+            "test_voice",
+            "cc.AudioClip"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "e5b045ec-85dd-46dc-a9d0-ab725126b339",
+            "163cd",
+            "f3eb4ba8-ee75-4f34-8bd6-66cfc75fe4b0",
+            "00333"
+        ],
+        "native": [
+            "e5b045ec-85dd-46dc-a9d0-ab725126b339",
+            "b7bce",
+            "f3eb4ba8-ee75-4f34-8bd6-66cfc75fe4b0",
+            "9b062"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true
+}
